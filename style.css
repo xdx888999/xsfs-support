@@ -131,3 +131,6 @@ footer.site {
 }
 
 footer.site a { color: var(--ink-2); }
+
+.card > p:first-child { margin-top: 0; }
+.card > p:last-child { margin-bottom: 0; }
