@@ -8,4 +8,6 @@
 | 隐私政策 | https://xdx888999.github.io/xsfs-support/privacy.html |
 | 使用条款 | https://xdx888999.github.io/xsfs-support/terms.html |
 
-问题反馈请在本仓库的 Issues 中提交。
+问题反馈请发邮件到 xdx_lab@126.com，或在本仓库的 Issues 中提交。
+
+© 2026 xdx_lab
