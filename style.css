@@ -44,6 +44,7 @@ body {
 
 header.site {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
@@ -58,6 +59,7 @@ header.site {
   text-decoration: none;
   font-weight: 800;
   font-size: 18px;
+  white-space: nowrap;
 }
 
 .brand .dot {
